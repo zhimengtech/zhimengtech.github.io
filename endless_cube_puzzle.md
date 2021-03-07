@@ -4,4 +4,4 @@ Endless Cube Puzzle is an excellent cube puzzle game with lots of cube puzzles t
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at zhimengtech@gmail.com.
+If you have any questions or suggestions about Endless Cube Puzzle, feel free to contact me at zhimengtech@gmail.com.
