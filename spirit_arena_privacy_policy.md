@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Xianzhuo Rong built the Magic Stone Puzzle: Play And Learn app as a Commercial app. This SERVICE is provided by Xianzhuo Rong and is intended for use as is.
+ZhimengTech built the SpiritArena: Play And Learn app as a Commercial app. This SERVICE is provided by ZhimengTech and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -55,7 +55,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2024-02-27
+This policy is effective as of 2024-09-24
 
 **Contact Us**
 
